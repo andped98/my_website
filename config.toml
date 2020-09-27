@@ -98,21 +98,21 @@ disqusShortname = ""
       url = "blogs/aliquam"
 
     [[params.tiles.showcase]]
+      title = "American Exchange"
+      subtitle = "University of Washington, Seattle"
+      image = "seattle.jpg"
+      url = "blogs/tempus"
+
+    [[params.tiles.showcase]]
       title = "Origins"
       subtitle = "Italian dolomites"
       image = "italian-dolomites.jpg"
-      url = "blogs/tempus"
+      url = "blogs/magna"
 
     [[params.tiles.showcase]]
       title = "Athletics"
       subtitle = "Ski Racing"
       image = "_AMO6879.jpeg"
-      url = "blogs/magna"
-
-    [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
       url = "blogs/ipsum"
 
     [[params.tiles.showcase]]
