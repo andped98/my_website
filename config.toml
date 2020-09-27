@@ -100,7 +100,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "American Exchange"
       subtitle = "University of Washington, Seattle"
-      image = "seattle.jpg"
+      image = "seattle.jpeg"
       url = "blogs/tempus"
 
     [[params.tiles.showcase]]
