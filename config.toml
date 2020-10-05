@@ -95,11 +95,11 @@ disqusShortname = ""
       title = "London Business School"
       subtitle = "Master's degree"
       image = "city-of-london.jpg"
-      url = "blogs/aliquam"
+      url = "blogs/CV Andrea Pedevilla"
 
     [[params.tiles.showcase]]
       title = "University of Washington"
-      subtitle = "American Exchange Programme, Seattle"
+      subtitle = "Exchange Programme, Seattle"
       image = "seattle02.jpeg"
       url = "blogs/tempus"
 
