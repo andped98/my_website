@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "London Business School"
       subtitle = "Master's degree"
       image = "city-of-london.jpg"
-      url = "blogs/CV Andrea Pedevilla"
+      url = "blogs/blog1"
 
     [[params.tiles.showcase]]
       title = "University of Washington"
