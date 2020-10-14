@@ -5,10 +5,10 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: ""
 draft: false
-image: pic10.jpg
+image: climate-change.jpg
 keywords: ""
 slug: blog1
-title: Ipsum
+title: Climate change and temperature anomalies
 ---
 
 
@@ -230,7 +230,7 @@ formula_ci
 ```
 
 
-
+```{r calculate_CI_using_bootstrap,warnings= FALSE, message=FALSE}
 library(infer)
 # use the infer package to construct a 95% CI for delta
 boot_ratings <- comparison %>%
@@ -248,7 +248,7 @@ percentali_ci <- boot_ratings %>%
 
 percentali_ci
 formula_ci[,5:6]
-
+```
 
 
 > What is the data showing us? Please type your answer after (and outside!) this blockquote. You have to explain what you have done, and the interpretation of the result. One paragraph max, please!
