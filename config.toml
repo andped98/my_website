@@ -82,7 +82,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, my name is Andrea!"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
+    subtitle = "THIS IS MY PORTFOLIO WEBSITE"
     buttonText = "Get Started"
 
 
@@ -179,9 +179,9 @@ disqusShortname = ""
     phone = "(0039) 3332062560"
 
     [[params.contact.address]]
-  #  title = "Address"
-  #  street = "Street"
-    city = "London"
+    title = "Address"
+    street = "Regent's Park"
+    city = "NW1 4SA, London"
     country = "UK"
 
   # Footer section
@@ -189,21 +189,21 @@ disqusShortname = ""
     enable = true
     copyright = "Company Name"
 
-    # Uses font awesome icons
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://www.twitter.com"
-      label = "Twitter"
+#    # Uses font awesome icons
+#    [[params.footer.social]]
+#      icon = "fa-twitter"
+#      url= "https://www.twitter.com"
+#      label = "Twitter"
 
-    [[params.footer.social]]
-      icon = "fa-facebook"
-      url= "https://www.facebook.com"
-      label = "Facebook"
+#    [[params.footer.social]]
+#      icon = "fa-facebook"
+#      url= "https://www.facebook.com"
+#      label = "Facebook"
 
-    [[params.footer.social]]
-      icon = "fa-instagram"
-      url= "https://www.instagram.com"
-      label = "Instagram"
+#    [[params.footer.social]]
+#      icon = "fa-instagram"
+#      url= "https://www.instagram.com"
+#      label = "Instagram"
     
     [[params.footer.social]]
       icon = "fa-github"
