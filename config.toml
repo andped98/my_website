@@ -101,7 +101,7 @@ disqusShortname = ""
       title = "University of Washington"
       subtitle = "Exchange Programme, Seattle"
       image = "seattle02.jpeg"
-      url = "blogs/tempus"
+      url = "blogs/blog2"
 
     [[params.tiles.showcase]]
       title = "Italian dolomites"
