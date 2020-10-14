@@ -12,38 +12,6 @@ title: Climate change and temperature anomalies
 ---
 
 
-```{r, setup, include=FALSE}
-knitr::opts_chunk$set(
-  message = FALSE, 
-  warning = FALSE, 
-  tidy=FALSE,     # display code as typed
-  size="small")   # slightly smaller font for code
-options(digits = 3)
-
-# default figure size
-knitr::opts_chunk$set(
-  fig.width=6.75, 
-  fig.height=6.75,
-  fig.align = "center"
-)
-```
-
-
-```{r load-libraries, include=FALSE}
-library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages
-library(mosaic)
-library(ggthemes)
-library(lubridate)
-library(here)
-library(skimr)
-library(janitor)
-library(httr)
-library(readxl)
-library(vroom)
-```
-
-
-
 # Climate change and temperature anomalies 
 
 
