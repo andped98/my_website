@@ -92,10 +92,10 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "London Business School"
-      subtitle = "Master's degree"
+      title = "Andrea"
+      subtitle = "LONDON BUSINESS SCHOOL - MFA2021"
       image = "city-of-london.jpg"
-      url = "blogs/blog1"
+      url = "blogs/blog4"
 
     [[params.tiles.showcase]]
       title = "University of Washington"
@@ -107,13 +107,13 @@ disqusShortname = ""
       title = "Italian dolomites"
       subtitle = "Origins"
       image = "italian-dolomites.jpg"
-      url = "blogs/magna"
+      url = "blogs/blog3"
 
     [[params.tiles.showcase]]
       title = "Athletics"
       subtitle = "Ski Racing"
       image = "_AMO6879.jpeg"
-      url = "blogs/ipsum"
+      url = "blogs/blog1"
 
 #    [[params.tiles.showcase]]
 #      title = "Projects"
