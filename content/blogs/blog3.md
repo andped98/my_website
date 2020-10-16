@@ -7,7 +7,7 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
 draft: false
 image: drinks.png
 keywords: ""
-slug: blog2
+slug: blog3
 title: Where Do People Drink The Most Beer, Wine And Spirits?
 ---
 
