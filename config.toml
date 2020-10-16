@@ -38,7 +38,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "Andrea Pedevilla"
-    subtitle = "By HTML5 Up"
+    subtitle = "STUDENT"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -98,21 +98,21 @@ disqusShortname = ""
       url = "blogs/blog4"
 
     [[params.tiles.showcase]]
-      title = "University of Washington"
-      subtitle = "Exchange Programme, Seattle"
-      image = "seattle02.jpeg"
+      title = "Trends in social media usage"
+      subtitle = "ANALYZING INSTAGRAM, SNAPCHAT AND TWITTER"
+      image = "social_media.jpg"
       url = "blogs/blog2"
 
     [[params.tiles.showcase]]
-      title = "Italian dolomites"
-      subtitle = "Origins"
-      image = "italian-dolomites.jpg"
+      title = "Alcohol consumption"
+      subtitle = "A STUDY ON WINE, BEER AND SPIRITIS"
+      image = "alcol.jpg"
       url = "blogs/blog3"
 
     [[params.tiles.showcase]]
-      title = "Athletics"
-      subtitle = "Ski Racing"
-      image = "_AMO6879.jpeg"
+      title = "Climate change"
+      subtitle = "TEMPERATURE ANOMALIES"
+      image = "c_change.jpg"
       url = "blogs/blog1"
 
 #    [[params.tiles.showcase]]
@@ -138,12 +138,8 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+    title = "Enjoy life"
+    subtitle = """Don't worry. Be happy"""
     buttonText = "Get Started"
     url = "blogs"
 
