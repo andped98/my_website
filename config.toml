@@ -101,7 +101,7 @@ disqusShortname = ""
       title = "Trends in social media usage"
       subtitle = "ANALYZING INSTAGRAM, SNAPCHAT AND TWITTER"
       image = "social_media.jpg"
-      url = "blogs/blog5"
+      url = "blogs/blog2"
 
     [[params.tiles.showcase]]
       title = "Alcohol consumption"

@@ -55,7 +55,7 @@ In this assignment we analyze data from the **2016 GSS sample data**, using it t
 
 
 ```{r, read_gss_data, cache=TRUE,warnings= FALSE, message=FALSE}
-gss <- read_csv(here::here("data", "smallgss2016.csv"), 
+gss <- read_csv(here::here("smallgss2016.csv"), 
                 na = c("", "Don't know",
                        "No answer", "Not applicable"))
 ```
